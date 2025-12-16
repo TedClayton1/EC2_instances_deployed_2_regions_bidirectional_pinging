@@ -100,7 +100,7 @@ with the "ping" command. The packets (3) transmitted are proof of this.
 
 ![Step 13] (https://github.com/TedClayton1/EC2_instances_deployed_2_regions_bidirectional_pinging/blob/90302b3cadfbf20b9024287099553c5182b7a6b5/EC2%20exit%20ap-southeast%20machine%20and%20back%20to%20my%20laptop%2013.PNG)
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](https://github.com/TedClayton1/EC2_instances_deployed_2_regions_bidirectional_pinging/blob/17f77f6404e23019b6a94f33f268a34b9f98cb72/Ping%20infrastructure%20drawing%20for%20dual%20EC2%20in%20different%20region.txt)
 
 
 
