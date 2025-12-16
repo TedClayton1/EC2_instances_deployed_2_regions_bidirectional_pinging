@@ -40,6 +40,7 @@ This project is used by the following companies:
 ## Deployment
 
 Prerequisites:
+
 *1:AWS CLI configured with valid credentials
 *2:Terraform installed (>= 1.x)
 *3:Two EC2 key pairs created:
@@ -47,6 +48,7 @@ Prerequisites:
 *5:One in ap-southeast-2
 
 Steps:
+
 *1:Open Visual Studio Code from GitBash with the "code" command.
 *2:```bash terraform init (tfi for short in this case)
 *3:```bash terraform validate
@@ -94,8 +96,12 @@ with the "ping" command. The packets (3) transmitted are proof of this.
 
 ![Step 12] (https://github.com/TedClayton1/EC2_instances_deployed_2_regions_bidirectional_pinging/blob/90302b3cadfbf20b9024287099553c5182b7a6b5/EC2%20successfully%20pinged%20us-east-1%20from%20ap-southeast%2012.PNG)
 
+
+
 ![Step 13] (https://github.com/TedClayton1/EC2_instances_deployed_2_regions_bidirectional_pinging/blob/90302b3cadfbf20b9024287099553c5182b7a6b5/EC2%20exit%20ap-southeast%20machine%20and%20back%20to%20my%20laptop%2013.PNG)
 
 ![Architecture Diagram](architecture/architecture-diagram.png)
+
+
 
 
