@@ -41,16 +41,14 @@ This project is used by the following companies:
 
 Prerequisites:
 
-*1:AWS CLI configured with valid credentials
-*2:Terraform installed (>= 1.x)
-*3:Two EC2 key pairs created:
-*4:One in us-east-1
-*5:One in ap-southeast-2
+Here are some steps:
 
-Steps:
+1.  First item
+1.  Second item
+1.  Third item
 
-*1:Open Visual Studio Code from GitBash with the "code" command.
-*2:```bash terraform init (tfi for short in this case)
+This is the end of the list.
+
 
 
 
