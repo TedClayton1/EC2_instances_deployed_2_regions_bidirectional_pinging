@@ -51,19 +51,7 @@ Steps:
 
 *1:Open Visual Studio Code from GitBash with the "code" command.
 *2:```bash terraform init (tfi for short in this case)
-*3:```bash terraform validate
-*4:```bash terraform plan
-*5:```bash terraform apply
-*6:Verify the .pem file for EC2 #1 has the correct permissions with the "chmod" command
-*7:From my local machine SSH or remote into the US East Instance (virtual machine)
-*8:From US East Instance (virtual machine) ping the AP Southeast Instance (virtual machine)
-with the "ping" command. The packets (3) transmitted are proof of this.
-*9:Exit us-east-1 server(virtual machine) and go back to my local machine (my laptop).
-*10:Verify the .pem file for EC2 #2 has the correct permissions with the "chmod" command.
-*11:From my local machine (laptop) SSH or remote into the AP-Southeast (virtual machine)
-*12:From AP-Southeast (virtual machine) ping the US-East instance with the "ping" command. The packets (3) are proof of this.
-*13:Exit the ap-southeast virtual machine and return to my local machine (laptop)
-*14:Deployment was a major success with drawing of the infrastructure
+
 
 
 
